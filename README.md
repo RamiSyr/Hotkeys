@@ -31,7 +31,6 @@ Increase\Decrease Brightness and Volume by using **WIN key** with the calculator
 
 **Brightness:**
 - **`8`** Increase by +8
-- :eight: Increase by +8
 - **`2`**  Reduce by -8
 - **`5`** to restore to 50%
 
