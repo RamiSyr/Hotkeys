@@ -10,7 +10,7 @@ While this tool open, you can see the tray icon toggled in notification area. Th
 
 ## **Commands:**
 
-Hold  **`WIN`** key with:
+**Hold `WIN` key with:**
 
 **`S:`**
 Opens Sticky Note, and if it is already exist open a new one.
