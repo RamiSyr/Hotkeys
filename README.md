@@ -13,25 +13,20 @@ While this tool open, you can see the tray icon toggled in notification area. Th
 Hold WIN key with:
 
 S:
-
 Opens Sticky Note, and if it is already exist open a new one.
 
 X:
-
 Opens Snipping Tool.
 
 N:
-
 Opens a new Notepad.
 
 G:
-
 Message box will appear asking you “what do you want to search in google.com?”
-
 After you write your word(s), google.com will open in your default internet browser with your search result.
 
 Volume and Brightness:
-
+======================
 Now, Increase\Decrease Brightness and Volume by using WIN key with the calculator side on our keyboards.
 
 Brightness:
