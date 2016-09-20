@@ -9,7 +9,7 @@ While this tool open, you can see the tray icon toggled in notification area. Th
 (to pause the program), About, and Exit.
 
 Commands:
----------
+==========
 
 ##Hold  **`WIN`** key with:
 
