@@ -1,4 +1,4 @@
-# ***HotKeys:***
+# **HotKeys:**
 
 The main concept of this program is to make shortcuts (keyboard hotkeys) for all daily common functions, including making **`WIN`** key on workstations works as **`FN`** key on laptops.
 
@@ -8,9 +8,9 @@ After you run this tool, popup message will appear for 5 seconds, tells you to h
 While this tool open, you can see the tray icon toggled in notification area. Three commands available: Suspend
 (to pause the program), About, and Exit.
 
-##Commands:
+## **Commands:**
 
-######Hold  **`WIN`** key with:
+##Hold  **`WIN`** key with:
 
 **`S:`**
 Opens Sticky Note, and if it is already exist open a new one.
