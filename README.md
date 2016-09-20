@@ -1,6 +1,6 @@
 # **HotKeys:**
 
-The main concept of this program is to make shortcuts (keyboard hotkeys) for all daily common functions, including making **`WIN`** :+1: key on workstations works as **`FN`** key on laptops.
+The main concept of this program is to make shortcuts (keyboard hotkeys) for all daily common functions, including making **`WIN`**  key on workstations works as **`FN`** key on laptops.
 
 After you run this tool, popup message will appear for 5 seconds, tells you to hold **`WIN + H`** for help any time.
 
@@ -31,6 +31,7 @@ Increase\Decrease Brightness and Volume by using **WIN key** with the calculator
 
 **Brightness:**
 - **`8`** Increase by +8
+- :Eight: Increase by +8
 - **`2`**  Reduce by -8
 - **`5`** to restore to 50%
 
