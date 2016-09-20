@@ -22,8 +22,7 @@ Opens a new Notepad.
 **G:**
 Message box will appear asking you “what do you want to search in google.com?”
 After you write your word(s), google.com will open in your default internet browser with your search result.
-
-# Volume and Brightness:
+------------------------
 
 Increase\Decrease Brightness and Volume by using **WIN key** with the calculator side on our keyboards.
 
