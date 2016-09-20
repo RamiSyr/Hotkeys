@@ -10,7 +10,7 @@ While this tool open, you can see the tray icon toggled in notification area. Th
 =========
 ## Hold  **WIN key** with:
 
-**S:**
+######S:
 Opens Sticky Note, and if it is already exist open a new one.
 
 **X:**
