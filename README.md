@@ -1,4 +1,4 @@
-***#HotKeys:***
+#***HotKeys:***
 
 The main concept of this program is to make shortcuts (keyboard hotkeys) for all daily common functions, including making **`WIN`** key on workstations works as **`FN`** key on laptops.
 
