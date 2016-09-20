@@ -1,6 +1,6 @@
 # **HotKeys:**
 
-The main concept of this program is to make shortcuts (keyboard hotkeys) for all daily common functions, including making **`WIN`** key on workstations works as **`FN`** key on laptops.
+The main concept of this program is to make shortcuts (keyboard hotkeys) for all daily common functions, including making **`WIN`** :+1: key on workstations works as **`FN`** key on laptops.
 
 After you run this tool, popup message will appear for 5 seconds, tells you to hold **`WIN + H`** for help any time.
 
