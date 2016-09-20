@@ -12,38 +12,37 @@ While this tool open, you can see the tray icon toggled in notification area. Th
 
 Hold WIN key with:
 
-S:
+**S:**
 Opens Sticky Note, and if it is already exist open a new one.
 
-X:
+**X:**
 Opens Snipping Tool.
 
-N:
+**N:**
 Opens a new Notepad.
 
-G:
+**G:**
 Message box will appear asking you “what do you want to search in google.com?”
 After you write your word(s), google.com will open in your default internet browser with your search result.
 
-Volume and Brightness:
-======================
+##Volume and Brightness:
+
 Now, Increase\Decrease Brightness and Volume by using WIN key with the calculator side on our keyboards.
 
-Brightness:
+**Brightness:**
 
 8 and 2 to Increase and reduce, 5 to restore to 50%
 
 Moves by +\- 8 each click.
 
-Volume:
+**Volume:**
 
 4 volume down, 6 volume up, and 0 to mute.
 
 Moves by +\- 2 each click.
 
-Page 3 of 3
 
-Notes:
+## Notes:
 
 - Do not forget the WIN+H key anytime for help.
 
