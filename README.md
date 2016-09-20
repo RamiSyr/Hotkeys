@@ -23,7 +23,7 @@ Opens a new Notepad.
 Message box will appear asking you “what do you want to search in google.com?”
 After you write your word(s), google.com will open in your default internet browser with your search result.
 
-**Volume and Brightness:**
+# Volume and Brightness:
 
 Increase\Decrease Brightness and Volume by using **WIN key** with the calculator side on our keyboards.
 
@@ -39,11 +39,3 @@ Moves by +\- 8 each click.
 
 Moves by +\- 2 each click.
 
-
-## Notes:
-
-- Do not forget the WIN+H key anytime for help.
-
-- We can see the horizontal volume bar when we change the volume:
-
-- This tool is small and light enough to add it into your Startup folder
