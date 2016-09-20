@@ -28,7 +28,7 @@ After you write your word(s), google.com will open in your default internet brow
 Increase\Decrease Brightness and Volume by using **WIN key** with the calculator side on our keyboards.
 
 **Brightness:**
-- ##**8** Increase by +8
+- **8** Increase by +8
 - **2**  Reduce by -8
 - **5** to restore to 50%
 
