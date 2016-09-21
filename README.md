@@ -38,3 +38,5 @@ Increase\Decrease Brightness and Volume by using **WIN key** with the calculator
 - **`4`** volume down by -2
 - **`6`** volume up by +2
 - **`0`** Mute.
+
+You can find more screenshorts and explaining here: https://drive.google.com/open?id=0B4JZ0whm9uWNMnJnR0pLTm9wVkk
