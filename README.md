@@ -1,5 +1,5 @@
 # **MyHotkeys:**
-Updates:
+**Updates:**
 ----
 >**- 29-9-2016 v2.0**
 - Add K to lock\unlock mouse and keyboard.
@@ -16,7 +16,8 @@ After you run this tool, popup message will appear for 5 seconds, tells you to h
 While this tool open, you can see the tray icon toggled in notification area. Three commands available: Suspend
 (to pause the program), About, and Exit.
 
-## **Commands:**
+**Commands:**
+----
 
 **Hold `WIN` key with:**
 
