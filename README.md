@@ -30,6 +30,7 @@ After you write your word(s), google.com will open in your default internet brow
 
 **`K:`**
 Locks/Unlocks keystrokes and mouse clicks.
+
 ===
 
 Increase\Decrease Brightness and Volume by using **WIN key** with the calculator side on our keyboards.
@@ -47,4 +48,4 @@ Increase\Decrease Brightness and Volume by using **WIN key** with the calculator
 -----
 
 **You can find more screenshorts and explaining here:**
-https://drive.google.com/open?id=0B4JZ0whm9uWNMnJnR0pLTm9wVkk
+https://github.com/RamiSyr/Hotkeys/raw/master/How%20to%20use%20MyHotkeys.docx
