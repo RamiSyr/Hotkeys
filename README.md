@@ -1,12 +1,10 @@
 # **MyHotkeys:**
 
 `- 29-9-2016 v2.0
-
 Add K to lock\unlock mouse and keyboard.`
 
 
 `- 21-08-2016 v1.0
-
 released`
 
 The main concept of this program is to make shortcuts (keyboard hotkeys) for all daily common functions, including making **`WIN`**  key on workstations works as **`FN`** key on laptops.
