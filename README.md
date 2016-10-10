@@ -19,6 +19,7 @@ While this tool open, you can see the tray icon toggled in notification area. Th
 
 **Commands:**
 ----
+
 ![Alt text](http://i.imgur.com/FYapu1C.png)
 
 **Hold `WIN` key with:**
@@ -41,6 +42,7 @@ Locks/Unlocks keystrokes and mouse clicks.
 
 ===
 
+![Alt text](http://i.imgur.com/1dZm4Au.png "MyHotkeys")
 Increase\Decrease Brightness and Volume by using **WIN key** with the calculator side on our keyboards.
 
 **Brightness:**
@@ -52,8 +54,6 @@ Increase\Decrease Brightness and Volume by using **WIN key** with the calculator
 - **`4`** volume down by -2
 - **`6`** volume up by +2
 - **`0`** Mute.
-
-![Alt text](http://i.imgur.com/1dZm4Au.png "MyHotkeys")
 
 -----
 
