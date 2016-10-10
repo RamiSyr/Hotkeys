@@ -19,7 +19,7 @@ While this tool open, you can see the tray icon toggled in notification area. Th
 
 **Commands:**
 ----
-(http://imgur.com/FYapu1C)
+![Alt text](http://i.imgur.com/FYapu1C.png)
 
 **Hold `WIN` key with:**
 
@@ -53,7 +53,7 @@ Increase\Decrease Brightness and Volume by using **WIN key** with the calculator
 - **`6`** volume up by +2
 - **`0`** Mute.
 
-![Alt text](http://imgur.com/1dZm4Au "MyHotkeys")
+![Alt text](http://i.imgur.com/1dZm4Au.png "MyHotkeys")
 
 -----
 
