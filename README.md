@@ -19,7 +19,6 @@ While this tool open, you can see the tray icon toggled in notification area. Th
 
 **Commands:**
 ----
-
 ![Alt text](http://imgur.com/FYapu1C "MyHotkeys")
 
 **Hold `WIN` key with:**
