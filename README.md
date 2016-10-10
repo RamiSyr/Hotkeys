@@ -1,4 +1,5 @@
 # **MyHotkeys:**
+
 **Updates:**
 ----
 >**- 29-9-2016 v2.0**
@@ -18,6 +19,8 @@ While this tool open, you can see the tray icon toggled in notification area. Th
 
 **Commands:**
 ----
+
+![Alt text](http://imgur.com/FYapu1C "MyHotkeys")
 
 **Hold `WIN` key with:**
 
@@ -50,6 +53,8 @@ Increase\Decrease Brightness and Volume by using **WIN key** with the calculator
 - **`4`** volume down by -2
 - **`6`** volume up by +2
 - **`0`** Mute.
+
+![Alt text](http://imgur.com/1dZm4Au "MyHotkeys")
 
 -----
 
