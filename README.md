@@ -43,6 +43,7 @@ Locks/Unlocks keystrokes and mouse clicks.
 ===
 
 ![Alt text](http://i.imgur.com/1dZm4Au.png "MyHotkeys")
+
 Increase\Decrease Brightness and Volume by using **WIN key** with the calculator side on our keyboards.
 
 **Brightness:**
