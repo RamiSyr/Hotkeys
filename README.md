@@ -14,7 +14,7 @@ The main concept of this program is to make shortcuts (keyboard hotkeys) for all
 After you run this tool, popup message will appear for 5 seconds, tells you to hold **`WIN + H`** for help any time.
 
 
-While this tool open, you can see the tray icon toggled in notification area. Three commands available: Suspend
+While this tool is open, you can see the tray icon toggled in notification area. Three commands available: Suspend
 (to pause the program), About, and Exit.
 
 **Commands:**
