@@ -20,7 +20,7 @@ While this tool is open, you can see the tray icon toggled in notification area.
 **Commands:**
 ----
 
-![Alt text](http://i.imgur.com/FYapu1C.png)
+![Alt text](https://raw.githubusercontent.com/RamiSyr/Crypto-Finder/master/CryptoFinder.ico)
 
 **Hold `WIN` key with:**
 
